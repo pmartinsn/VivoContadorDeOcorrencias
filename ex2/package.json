@@ -1,0 +1,20 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "Api que recebe vetores e retorna a frequenca dos caractenes da segunda na primeira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "API",
+    "node"
+  ],
+  "author": "Pamela Martins Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
